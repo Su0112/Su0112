@@ -3,7 +3,7 @@
 
 <div style="text-align: center;">
   
-I may be small in stature, but my ambitions are big! I'm constantly striving to learn new technologies and improve my skills. Passionate about creating responsive and user-friendly interfaces that enhance the user experience. Experienced in HTML, CSS, JavaScript, and React. Always looking for new challenges and opportunities to grow as a developer. When I'm not coding, I enjoy drawing, painting, and building robotics projects for kids of all ages. Additionally, I conduct robotics summer camps for neurodiverse children.
+I'm ambitious and constantly striving to learn new technologies and improve my skills. Passionate about creating responsive and user-friendly interfaces that enhance the user experience. Experienced in HTML, CSS, JavaScript, and React. Always looking for new challenges and opportunities to grow as a developer. When I'm not coding, I enjoy drawing, painting, and building robotics projects for kids of all ages. Additionally, I conduct robotics summer camps for neurodiverse children.
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
   <li>🌍 I'm based in Vancouver, BC</li>
