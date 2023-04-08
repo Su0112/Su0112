@@ -20,7 +20,7 @@ I'm ambitious and constantly striving to learn new technologies and improve my s
 
 <div style="display: flex; justify-content: space-between;">
 
-<a href="http://www.github.com/Su0112"><img src="https://github-readme-stats.vercel.app/api?username=Su0112&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Su0112's GitHub stats" height="200px" /></a>
+<a href="http://www.github.com/Su0112"><img src="https://github-readme-stats.vercel.app/api?username=Su0112&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Su0112's GitHub stats" width="400" height="200px" /></a>
 
 <a href="https://github.com/Su0112" align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su0112&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"  alt="Top Languages" height="200px" /></a>
 
